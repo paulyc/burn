@@ -1,8 +1,0 @@
-/* Basic info */
-NSHumanReadableCopyright = "Kiwi Fruitware 2009";
-"CFBundleHelpBookName" = "Ajuda Burn";
-
-/* File types */
-"Image document" = "Documento de Imagem";
-"Burn document" = "Documento do Burn";
-"Theme document" = "Documento de Tema";
